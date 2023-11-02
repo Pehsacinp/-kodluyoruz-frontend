@@ -9,4 +9,6 @@
 [def2]: odev2.png
 
 # -Bölüm Sonu Ödevi
-![github](bölüm sonu ödevi.png)
+![github][def3]
+
+[def3]: bölümsonuödevi.png
