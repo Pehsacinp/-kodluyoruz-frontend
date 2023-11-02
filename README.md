@@ -1,2 +1,2 @@
-# -html ödev 1
+# -HTML ÖDEV 1 
 ![github] (odev.png)
