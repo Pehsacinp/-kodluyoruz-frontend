@@ -4,5 +4,6 @@
 [def]: odev.png
 
 # -HTML ÖDEV 2
-![github] [def]
-[def]: odev2.png
+![github][def2]
+
+[def2]: odev2.png
