@@ -1,2 +1,4 @@
 # -HTML ÖDEV 1 
-![github] (odev.png)
+![github][def]
+
+[def]: odev.png
