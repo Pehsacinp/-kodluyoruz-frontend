@@ -1,4 +1,2 @@
-# -kodluyoruz-frontend
- Kodluyoruz Frontend Eğitimi Ödevleri 
-
+# -html ödev 1
 ![github] (odev.png)
