@@ -8,7 +8,7 @@
 
 [def2]: odev2.png
 
-# -HTML ÖDEV 2
+# -Bölüm Sonu Ödevi
 ![github][def3]
 
 [def3]: bölüm sonu ödevi.png
