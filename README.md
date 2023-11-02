@@ -11,4 +11,4 @@
 # -HTML ÖDEV 2
 ![github][def3]
 
-[def2]: bölüm sonu ödevi.png
+[def3]: bölüm sonu ödevi.png
