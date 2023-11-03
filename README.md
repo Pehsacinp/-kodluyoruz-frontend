@@ -12,3 +12,8 @@
 ![github][def3]
 
 [def3]: bölümsonuçalışma.png
+
+# Ödev 3
+
+![github] [def4]
+[def4]: ödev3.png
