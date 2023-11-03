@@ -15,5 +15,4 @@
 
 # Ödev 3
 
-![github] [def4]
-[def4]: ödev3.png
+![github] (ödev3.png)
