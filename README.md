@@ -11,4 +11,4 @@
 # -Bölüm Sonu Ödevi
 ![github][def3]
 
-[def3]: bölümsonuödevi.png
+[def3]: bölümsonuçalışma.png
