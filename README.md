@@ -22,5 +22,10 @@
 # CSS Ödev 1 
 ![github][def5]
 
-
 [def5]: cssodev1.png
+
+# CSS Ödev 2
+
+![github][def6]
+
+[def6]: cssödev2.png
