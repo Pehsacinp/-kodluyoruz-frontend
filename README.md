@@ -18,3 +18,8 @@
 ![github][def4]
 
 [def4]: ödev3.png
+
+# CSS Ödev 1 
+![github] [def5]
+
+[def5]: cssodev1.png
